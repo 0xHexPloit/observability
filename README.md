@@ -1,7 +1,7 @@
-#Observability
+# Observability
 A lightweight Python library for monitoring system metrics. Currently supports CPU usage monitoring with a simple and efficient interface.
 
-##Usage
+## Usage
 ```
 from observability import Observability
 
